@@ -2,7 +2,7 @@ Hola! Soy Facundo Pompa, soy de Buenos Aires, Argentina. Programador Frontend (p
 
 Me fascina programar, leer libros, ver series y jugar videojuegos!
 
-Van a encontrar algunos de mis proyectos que hice/estoy haciendo durante un curso de Desarrollador FullStack en ##CoderHouse
+Van a encontrar algunos de mis proyectos que hice/estoy haciendo durante un curso de Desarrollador FullStack en #CoderHouse
 
 <hr>
 
