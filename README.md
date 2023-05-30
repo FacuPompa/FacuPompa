@@ -1,4 +1,4 @@
-Hola! Soy Facundo Pompa, vivo en Buenos Aires, Argentina. Programador Frontend (por ahora)
+Hola! Soy Facundo Pompa, vivo en Buenos Aires, Argentina. Desarrollador Frontend (por ahora)
 
 Me fascina programar, leer libros, ver series y jugar videojuegos!
 
