@@ -1,9 +1,45 @@
-Hola! Soy Facundo Pompa, vivo en Buenos Aires, Argentina. Desarrollador Frontend (por ahora)
+#  👋 Facundo Pompa - Frontend Developer
 
-Me fascina programar, leer libros, ver series y jugar videojuegos!
+Hi there! 🌟 My name is Facundo Pompa, and I'm a frontend developer from Buenos Aires, Argentina.
 
-Van a encontrar algunos de mis proyectos que hice/estoy haciendo durante un curso de Desarrollador FullStack en [**CoderHouse**](https://www.coderhouse.com/)
+## About Me
 
-<hr>
+I'm passionate about 💻 programming, 📚 reading books, 📺 watching series, and 🎮 playing video games!
 
-Si quieren contactarme, pueden mandarme un mensaje por instagram @facuupompa o simplemente un mail pompafacundo@gmail.com
+During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/), I on various projects, some of which you can find them on my GitHub
+
+## 💪 Skills
+
+- HTML5
+- CSS3
+- Responsive Design
+- Sass
+- JavaScript
+- React
+- Git
+
+## 🎓 Studying
+
+- Fullstack Developer Course from CoderHouse (2021-Present)
+
+
+## ⭐Interests
+
+- Open-source projects
+- Continuous learning and self-improvement
+- Collaboration and teamwork
+
+
+## 🌐 Languages
+
+- English (Fluent)
+- Spanish (Native)
+
+## 📞 Contact
+
+Feel free to reach out to me via Instagram or email:
+
+- Instagram: [@facuupompa](https://www.instagram.com/facuupompa)
+- Email: [pompafacundo@gmail.com](mailto:pompafacundo@gmail.com)
+
+Looking forward to connecting with you! 😊
