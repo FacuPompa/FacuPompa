@@ -41,5 +41,6 @@ Feel free to reach out to me via Instagram or email:
 
 - Instagram: [@facuupompa](https://www.instagram.com/facuupompa)
 - Email: [pompafacundo@gmail.com](mailto:pompafacundo@gmail.com)
-
+- LinkedIn: [Facundo Pompa](https://www.linkedin.com/in/facundo-pompa-2479b5232/)
+ 
 Looking forward to connecting with you! 😊
