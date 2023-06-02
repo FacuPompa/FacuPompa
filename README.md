@@ -20,7 +20,7 @@ During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/
 
 ## 🎓 Studying
 
-- Fullstack Developer Course from CoderHouse (2021-Present)
+- Fullstack Developer Course from CoderHouse (2022-Present)
 
 
 ## ⭐Interests
