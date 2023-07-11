@@ -18,6 +18,7 @@ During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/
 - GitHub
 - JavaScript
 - React
+- Firebase
 - Node JS
 - MongoDB
 
