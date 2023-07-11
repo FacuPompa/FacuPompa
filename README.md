@@ -14,9 +14,12 @@ During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/
 - CSS3
 - Responsive Design
 - Sass
+- Git
+- GitHub
 - JavaScript
 - React
-- Git
+- Node JS
+- MongoDB
 
 ## 🎓 Studying
 
