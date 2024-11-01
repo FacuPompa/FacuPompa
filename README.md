@@ -22,9 +22,11 @@ During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/
 - Node JS
 - MongoDB
 
-## 🎓 Studying
+## 🎓 Studies
 
-- Fullstack Developer Course from CoderHouse (2022-Present)
+- University Technical Degree in Web Design and Development (University of San Luis 2024-present)
+- Fullstack Developer Course from CoderHouse (2022-2023)
+  
 
 
 ## ⭐Interests
