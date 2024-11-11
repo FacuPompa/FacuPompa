@@ -6,7 +6,7 @@ Hi there! 🌟 My name is Facundo Pompa, and I'm a frontend developer from Bueno
 
 I'm passionate about 💻 programming, 📚 reading books, 📺 watching series, and 🎮 playing video games!
 
-During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/), I on various projects, some of which you can find them on my GitHub
+During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/), I worked on various projects, some of which you can find them on my GitHub
 
 ## 💪 Skills
 
