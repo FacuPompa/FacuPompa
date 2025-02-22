@@ -21,6 +21,8 @@ During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/
 - Firebase
 - Node JS
 - MongoDB
+- C
+- Python
 
 ## 🎓 Studies
 
