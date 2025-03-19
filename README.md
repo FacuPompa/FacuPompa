@@ -1,6 +1,6 @@
-#  👋 Facundo Pompa - Frontend Developer
+#  👋 Facundo Pompa - FullStack Developer
 
-Hi there! 🌟 My name is Facundo Pompa, and I'm a frontend developer from Buenos Aires, Argentina.
+Hi there! 🌟 My name is Facundo Pompa, and I'm a fullstack developer from San Luis, Argentina.
 
 ## About Me
 
