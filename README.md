@@ -1,54 +1,65 @@
-#   Facundo Pompa - FullStack Developer
+<h1 align="center">Hi 👋, I'm Facundo!</h1>
 
-Hi there!  My name is Facundo Pompa, and I'm a fullstack developer from San Luis, Argentina.
+<h3 align="center">💻 Fullstack Developer from Argentina | Passionate about web development and continuous learning</h3>
 
-## About Me
+---
 
-I'm passionate about programming, reading books, watching series, and playing video games!
+## 👨‍💻 About Me
 
-During my Fullstack Developer course at [CoderHouse](https://www.coderhouse.com/), I worked on various projects, some of which you can find them on my GitHub
+I'm Facundo, a fullstack developer in training from Argentina 🇦🇷.  
+I'm passionate about technology, programming, and solving problems by building useful apps.  
+In my free time, I enjoy reading, watching series, and learning something new every day.
 
-## Skills
-
-- HTML5
-- CSS3
-- Responsive Design
-- Sass
-- Git
-- GitHub
-- JavaScript
-- React
-- Firebase
-- Node JS
-- MongoDB
-- C
-- Python
-
-## Studies
-
-- University Technical Degree in Web Design and Development (University of San Luis 2024-present)
-- Fullstack Developer Course from CoderHouse (2022-2023)
-  
+---
 
 
-## Interests
+## 🛠️ Technologies I Use
 
-- Open-source projects
-- Continuous learning and self-improvement
-- Collaboration and teamwork
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
 
+---
 
-## Languages
+## 🎓 Studies
 
-- English (Fluent)
-- Spanish (Native)
+- 📘 **University Technical Degree in Web Design and Development** – *University of San Luis (2024–Present)*  
+- 📗 **Fullstack Developer Course** – *CoderHouse (2022–2023)*
+
+---
+
+## 🌐 Languages
+
+- Spanish (Native)  
+- English (Fluent)  
 - Japanese (Upper Beginner)
 
-## Contact
+---
 
-Feel free to reach out to me via Instagram or email:
+## 📫 Contact
 
-- Instagram: [@facuupompa](https://www.instagram.com/facuupompa)
-- Email: [pompafacundo@gmail.com](mailto:pompafacundo4@gmail.com)
- 
-Looking forward to connecting with you!
+<p>
+  <a href="https://www.instagram.com/facuupompa" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="mailto:pompafacundo4@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email"/>
+  </a>
+  <a href="https://portfolio-facupompas-projects.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/facundo-pompa-a25570357/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
