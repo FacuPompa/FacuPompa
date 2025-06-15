@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Facundo!</h1>
+<h1 align="center">Hi, I'm Facundo!</h1>
 
-<h3 align="center">💻 Fullstack Developer from Argentina | Passionate about web development and continuous learning</h3>
+<h3 align="center">💻 Fullstack Developer from Argentina | Enthusiastic about web development and always eager to learn more.</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm Facundo, a fullstack developer in training from Argentina 🇦🇷.  
+I'm Facundo, a fullstack developer in training from Argentina
 I'm passionate about technology, programming, and solving problems by building useful apps.  
 In my free time, I enjoy reading, watching series, and learning something new every day.
 
