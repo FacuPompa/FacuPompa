@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Facundo!</h1>
 
-<h3 align="center">💻 Fullstack Developer from Argentina | Enthusiastic about web development and always eager to learn more.</h3>
+<h3 align="center">Fullstack Developer from Argentina | Enthusiastic about web development and always eager to learn more.</h3>
 
 ---
 
@@ -56,7 +56,7 @@ In my free time, I enjoy reading, watching series, and learning something new ev
   <a href="mailto:pompafacundo4@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://portfolio-u2jw-erqow50vj-facupompas-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-u2jw-btoli3ige-facupompas-projects.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/facundo-pompa-a25570357/" target="_blank">
