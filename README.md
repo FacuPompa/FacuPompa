@@ -36,6 +36,7 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 
 - **University Technical Degree in Web Design and Development** – *University of San Luis (2024–Present)*  
 - **Fullstack Developer Course** – *CoderHouse (2022–2023)*
+- **Fundamentals of Programming Course** - *National Technological University (07/2022-10/2022)*
 
 ---
 
@@ -43,7 +44,7 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 
 - Spanish (Native)  
 - English (Fluent)  
-- Japanese (Upper Beginner)
+- Japanese (Intermediate)
 
 ---
 
