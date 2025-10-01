@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm Facundo, a fullstack developer in training from Argentina
 I'm passionate about technology, programming, and solving problems by building useful apps.  
@@ -13,7 +13,7 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 ---
 
 
-## 🛠️ Technologies I Use
+## Technologies I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -32,14 +32,14 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 
 ---
 
-## 🎓 Studies
+## Studies
 
-- 📘 **University Technical Degree in Web Design and Development** – *University of San Luis (2024–Present)*  
-- 📗 **Fullstack Developer Course** – *CoderHouse (2022–2023)*
+- **University Technical Degree in Web Design and Development** – *University of San Luis (2024–Present)*  
+- **Fullstack Developer Course** – *CoderHouse (2022–2023)*
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - Spanish (Native)  
 - English (Fluent)  
@@ -47,7 +47,7 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p>
   <a href="https://www.instagram.com/facuupompa" target="_blank">
@@ -56,7 +56,7 @@ In my free time, I enjoy reading, watching series, and learning something new ev
   <a href="mailto:pompafacundo4@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://portfolio-facupompas-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-u2jw-erqow50vj-facupompas-projects.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/facundo-pompa-a25570357/" target="_blank">
