@@ -16,18 +16,15 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 ## Technologies I Use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
 </p>
 
 ---
@@ -52,16 +49,16 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 
 <p>
   <a href="https://www.instagram.com/facuupompa" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="mailto:pompafacundo4@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email"/>
+    <img src="https://www.svgrepo.com/show/521128/email-1.svg" width="40" height="40" alt="Email"/>
   </a>
   <a href="https://portfolio-u2jw.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/facundo-pompa-a25570357/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
