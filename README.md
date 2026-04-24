@@ -48,17 +48,14 @@ In my free time, I enjoy reading, watching series, and learning something new ev
 ## Contact
 
 <p>
-  <a href="https://www.instagram.com/facuupompa" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-  <a href="mailto:pompafacundo4@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/521128/email-1.svg" width="40" height="40" alt="Email"/>
-  </a>
-  <a href="https://portfolio-u2jw.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/facundo-pompa-a25570357/" target="_blank">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-u2jw.vercel.app/" target="_blank">
+    <img src="https://github.com/apancik/public-domain-icons/blob/master/dist/building%20home%20house%20dashboard%20index.svg" width="40" height="40" alt="Portfolio"/>
+  </a>
+  <a href="mailto:pompafacundo4@gmail.com" target="_blank">
+    <img src="https://github.com/apancik/public-domain-icons/blob/master/dist/object%20mail%20email%20letter.svg" width="40" height="40" alt="Email"/>
   </a>
 </p>
 
