@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Facundo!</h1>
 
-<h3 align="center">Fullstack Developer from Argentina | Enthusiastic about web development and always eager to learn more.</h3>
+<h3 align="center">Software Developer from Argentina | Enthusiastic about web development and always eager to learn more.</h3>
 
 ---
 
 ## About Me
 
-I'm Facundo, a fullstack developer in training from Argentina
+I'm Facundo, a software developer in training from Argentina
 I'm passionate about technology, programming, and solving problems by building useful apps.  
 In my free time, I enjoy reading, watching series, and learning something new every day.
 
@@ -20,11 +20,11 @@ In my free time, I enjoy reading, watching series, and learning something new ev
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
 ---
