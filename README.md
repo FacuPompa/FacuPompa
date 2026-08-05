@@ -7,9 +7,9 @@
 
 ***About me***
 
-I'm a web developer in training from San Luis, Argentina, currently studying Web Design and Development at the National University of San Luis.
+I'm a web developer in training from San Luis, Argentina, currently studying Web Design and <br> Development at the National University of San Luis.
 
-I enjoy building useful, responsive and clear digital experiences while learning through real projects.
+I enjoy building useful, responsive and clear digital experiences while learning through real <br> projects.
 
 - I’m currently learning:
   - Java
@@ -19,7 +19,8 @@ I enjoy building useful, responsive and clear digital experiences while learning
 - Reach out to me at: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
 
 <br clear="right">
-## My Skills Include
+
+## My Skills include
 
 <h4>Languages</h4>
 
