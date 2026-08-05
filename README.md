@@ -11,12 +11,12 @@ I'm a web developer in training from San Luis, Argentina, currently studying Web
 
 I enjoy building useful, responsive and clear digital experiences while learning through real projects.
 
-- 🌱 I’m currently learning:
+- I’m currently learning:
   - Java
   - C#
-- 💻 Interested in web development, problem solving and useful software.
-- 📚 Outside tech, I enjoy reading, playing the guitar and learning new things.
-- 📫 Reach out to me at: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
+- Interested in web development, problem solving and useful software.
+- Outside tech, I enjoy reading, playing the guitar and learning new things.
+- Reach out to me at: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
 
 <br clear="right">
 ## My Skills Include
