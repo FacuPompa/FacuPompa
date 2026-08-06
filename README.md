@@ -7,9 +7,9 @@
 
 ***About me***
 
-I'm a web developer in training from San Luis, Argentina, currently studying Web Design and <br> Development at the National University of San Luis.
+I'm a web developer in training from San Luis, Argentina, currently studying Web <br> Design and Development at the National University of San Luis.
 
-I enjoy building useful, responsive and clear digital experiences while learning through real <br> projects.
+I enjoy building useful, responsive and clear digital experiences while learning <br>through real projects.
 
 - I’m currently learning:
   - Java
