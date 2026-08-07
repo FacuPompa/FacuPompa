@@ -1,28 +1,28 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
-  <b>Hi, I'm Facundo Pompa</b>
+  <b>Hola, Soy Facundo Pompa</b>
 </h1>
 
 <img align="right" width="300px" alt="Nagato Yuki coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE2enk3bXMzbzdscGFyZG9reDh3d21hZjVhczQxNHo3ZWM3dW0xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBWggPIeZeaakuj5QH/giphy.gif">
 
-***About me***
+***Sobre mi***
 
-I'm a web developer in training from San Luis, Argentina, currently studying Web <br> Design and Development at the National University of San Luis.
+Soy un desarrollador web en formación de San Luis, Argentina, actualmente estudiando <br> Diseño y Desarrollo Web en la Universidad Nacional de San Luis.
 
-I enjoy building useful, responsive and clear digital experiences while learning <br>through real projects.
+Me apasiona construir experiencias digitales útiles, responsivas y claras mientras aprendo a través de proyectos reales.
 
-- I’m currently learning:
+- Actualmente estoy aprendiendo:
   - Java
   - C#
-- Interested in web development, problem solving and useful software.
-- Outside tech, I enjoy reading, playing the guitar and learning new things.
-- Reach out to me at: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
+- Interesado en desarrollo web, resolución de problemas y software útil.
+- Fuera del mundo tech, disfruto leyendo, tocando guitarra y aprendiendo cosas nuevas.
+- Contactame en: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
 
 <br clear="right">
 
-## My Skills include
+## Mis Habilidades incluyen
 
-<h4>Languages</h4>
+<h4>Lenguajes</h4>
 
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -34,7 +34,7 @@ I enjoy building useful, responsive and clear digital experiences while learning
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp">
 </span>
 
-<h4>Other Tools</h4>
+<h4>Otras Herramientas</h4>
 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -48,7 +48,7 @@ I enjoy building useful, responsive and clear digital experiences while learning
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </span>
 
-## Connect with me
+## Contactá conmigo
 
 <a href="https://www.linkedin.com/in/facundo-pompa-a25570357/">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
