@@ -5,15 +5,14 @@
 
 <img align="right" width="300px" alt="Nagato Yuki coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE2enk3bXMzbzdscGFyZG9reDh3d21hZjVhczQxNHo3ZWM3dW0xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBWggPIeZeaakuj5QH/giphy.gif">
 
-***Sobre mi***
+<h3> Sobre mi </h3>
 
 Soy un desarrollador web en formación de San Luis, Argentina, actualmente <br> estudiando Diseño y Desarrollo Web en la Universidad Nacional de San Luis.
 
-Me apasiona construir experiencias digitales útiles, responsivas y claras mientras aprendo a través de proyectos reales.
+Me apasiona construir experiencias digitales útiles, responsivas y claras <br> mientras aprendo a través de proyectos reales.
 
-- Actualmente estoy aprendiendo:
-  - Java
-  - C#
+- Actualmente estoy creando **Umbral**, una aplicación full stack para compartir experiencias <br> sobre videojuegos narrativos sin spoilers.
+- Profundizando en desarrollo full stack con Java, Spring Boot, React y PostgreSQL.
 - Interesado en desarrollo web, resolución de problemas y software útil.
 - Fuera del mundo tech, disfruto leyendo, tocando guitarra y aprendiendo cosas nuevas.
 - Contactame en: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
@@ -22,7 +21,7 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras mient
 
 ## Mis Habilidades incluyen
 
-<h4>Lenguajes</h4>
+<h4>Lenguajes y desarrollo web</h4>
 
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -34,21 +33,27 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras mient
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp">
 </span>
 
-<h4>Otras Herramientas</h4>
+<h4>Backend, datos y despliegue</h4>
+
+<span>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</span>
+
+<h4>Flujo de trabajo y organización</h4>
 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
   <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp">
   <img src="https://custom-icon-badges.demolab.com/badge/Codex-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode">
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </span>
+
 
 ## Contactá conmigo
 
