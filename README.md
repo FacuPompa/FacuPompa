@@ -21,7 +21,7 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras <br> 
 
 ## Mis Habilidades incluyen
 
-<h4>Lenguajes y desarrollo web</h4>
+<h4>Lenguajes</h4>
 
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -33,7 +33,7 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras <br> 
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp">
 </span>
 
-<h4>Backend, datos y despliegue</h4>
+<h4>Backend y datos</h4>
 
 <span>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
