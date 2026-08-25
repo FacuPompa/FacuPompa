@@ -60,7 +60,7 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras <br> 
 <a href="https://www.linkedin.com/in/facundo-pompa-a25570357/">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://portfolio-u2jw.vercel.app/">
+<a href="https://pompa-dev.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 <a href="mailto:pompafacundo4@gmail.com">
