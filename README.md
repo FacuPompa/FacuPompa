@@ -13,7 +13,7 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras <br> 
 
 - Actualmente estoy creando [Umbral](https://github.com/FacuPompa/Umbral), una aplicación full stack para compartir <br> experiencias sobre videojuegos narrativos sin spoilers.
 - Profundizando en desarrollo full stack con Java, Spring Boot, React y PostgreSQL.
-- Interesado en desarrollo web, resolución de problemas y software útil.
+- Interesado en desarrollo backend, resolución de problemas y software útil.
 - Fuera del mundo tech, disfruto leyendo, tocando guitarra y aprendiendo cosas nuevas.
 - Contactame en: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
 
