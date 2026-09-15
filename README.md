@@ -7,7 +7,7 @@
 
 <h3> Sobre mi </h3>
 
-Soy un desarrollador web en formación de San Luis, Argentina, actualmente <br> estudiando Diseño y Desarrollo Web en la Universidad Nacional de San Luis.
+Soy un desarrollador de software de San Luis, Argentina, actualmente <br> estudiando Diseño y Desarrollo Web en la Universidad Nacional de San Luis.
 
 Me apasiona construir experiencias digitales útiles, responsivas y claras <br> mientras aprendo a través de proyectos reales.
 
