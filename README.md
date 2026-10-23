@@ -7,11 +7,11 @@
 
 <h3> Sobre mi </h3>
 
-Soy un desarrollador de software de San Luis, Argentina, actualmente <br> estudiando Diseño y Desarrollo Web en la Universidad Nacional de San Luis.
+Soy un desarrollador backend de San Luis, Argentina, actualmente <br> estudiando Diseño y Desarrollo Web en la Universidad Nacional de San Luis.
 
 Me apasiona construir experiencias digitales útiles, responsivas y claras <br> mientras aprendo a través de proyectos reales.
 
-- Profundizando en desarrollo full stack con Java, Spring Boot, React y PostgreSQL.
+- Profundizando en el ecositema de Spring.
 - Interesado en desarrollo backend, resolución de problemas y software útil.
 - Fuera del mundo tech, disfruto leyendo, tocando guitarra y aprendiendo cosas nuevas.
 - Contactame en: <a href="mailto:pompafacundo4@gmail.com">pompafacundo4@gmail.com</a>
