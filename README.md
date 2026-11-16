@@ -29,6 +29,9 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras <br> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
+  <img src="https://custom-icon-badges.demolab.com/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL">
+  <img src="https://custom-icon-badges.demolab.com/badge/APEXlang-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="APEXlang">
 </span>
 
 <h4>Backend y Bases de Datos</h4>
@@ -36,6 +39,8 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras <br> 
 <span>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX">
 </span>
 
 <h4>DevOps, Entorno y Herramientas</h4>
@@ -44,6 +49,9 @@ Me apasiona construir experiencias digitales útiles, responsivas y claras <br> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle_SQLcl-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQLcl">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
   <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp">
