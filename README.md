@@ -7,7 +7,7 @@
 
 <h3> Sobre mi </h3>
 
-Soy un desarrollador backend de San Luis, Argentina, actualmente <br> estudiando Diseño y Desarrollo Web en la Universidad Nacional de San Luis.
+Soy un desarrollador backend de San Luis, Argentina, actualmente <br> estudiando la Tecnicatura Universitaria en Web en la Universidad Nacional de San Luis.
 
 Me apasiona construir experiencias digitales útiles, responsivas y claras <br> mientras aprendo a través de proyectos reales.
 
